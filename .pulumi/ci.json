@@ -1,4 +1,4 @@
 {
-    "master": "dev",
+    "master": "master",
     "feature-branch": "feature-branch"
 }
